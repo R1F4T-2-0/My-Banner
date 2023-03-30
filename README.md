@@ -2,8 +2,8 @@
 
    -   cd
 
-   -   git clone --depth=1 https://github.com/Mr-Beta-Version/BETA-STYLE
+   -   git clone --depth=1 https://github.com/R1F4T-2-0/My-Banner
 
-   -   cd BETA-STYLE
+   -   cd My-Banner
 
    -   bash run.sh
